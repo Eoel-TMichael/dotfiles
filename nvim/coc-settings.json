@@ -1,0 +1,33 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "dart",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "text",
+    "txt",
+    "html",
+    "json",
+    "typescripts",
+    "typescriptreact",
+    "shell",
+    "sh",
+    "markdown"
+  ],
+  "coc.source.emoji.triggerCharacters": ["~"],
+  "coc.source.emoji.filetypes": [
+    "dart",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "text",
+    "txt",
+    "html",
+    "json",
+    "typescripts",
+    "typescriptreact",
+    "shell",
+    "sh",
+    "markdown"
+  ]
+}
